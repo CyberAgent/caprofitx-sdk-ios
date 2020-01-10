@@ -3,5 +3,4 @@
 [ProFit-X](https://caprofitx.jp/)は、ユーザビリティを損なうことなくマネタイズを実現し、メディア様に持続的成長を提供するスマートデバイス向けのSSPサービスです。
 
 # CA ProFit-X iOS SDK
-- [ドキュメント](https://github.com/CyberAgent/caprofitx-sdk-ios/wiki)
 - [ダウンロード](https://github.com/CyberAgent/caprofitx-sdk-ios/releases)
