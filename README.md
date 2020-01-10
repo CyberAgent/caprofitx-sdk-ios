@@ -4,3 +4,4 @@
 
 # CA ProFit-X iOS SDK
 - [ドキュメント](https://github.com/CyberAgent/caprofitx-sdk-ios/wiki)
+- [ダウンロード](https://github.com/CyberAgent/caprofitx-sdk-ios/releases)
